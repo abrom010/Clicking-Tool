@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\user\Desktop\ClickTool\src\main.cpp(61,5): warning C4007: 'WinMain': must be '__stdcall'
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 86 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Click Spammer.vcxproj -> C:\Users\user\Desktop\ClickTool\Release\ClickTool.exe

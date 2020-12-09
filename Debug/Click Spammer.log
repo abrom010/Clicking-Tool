@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\user\Desktop\ClickTool\src\main.cpp(61,5): warning C4007: 'WinMain': must be '__stdcall'
+  Click Spammer.vcxproj -> C:\Users\user\Desktop\ClickTool\Debug\ClickTool.exe
